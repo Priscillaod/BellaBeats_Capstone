@@ -9,20 +9,31 @@ Urška Sršen is the co-founder and Chief Creative Officer of Bellabeat.
 
 
 
+
+
 BUSINESS TASKS
 
 To analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices. 
 
+
 Questions to answer includes
 
 What are some trends in smart device usage? 
+
 How could these trends apply to Bellabeat customers? 
+
 How could these trends help influence Bellabeat's marketing strategy?
+
+
+
 
 
 DATA SOURCE
 
 Data was gotten from FitBit Fitness Tracker Data on Kaggle. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits.
+
+
+
 
 Data Limitations
 
@@ -30,9 +41,13 @@ Data was collected from customers whose demographic details (age, gender etc) we
 The dataset is not up-to-date
 The dataset was inconsistent with the 30 expected users. DailyActivity, DailyCalories, DailyIntensities and DailySteps tables all had 33 users. SleepDay table had 24 users, while weightLogInfo has 8 users
 
+
+
 Data Cleaning
 
 The dataset in CSV format was imported into excel for cleaning. All hourly data were merged into one sheet, as was with the daily activities. Date/Time was properly formatted into Date or time.
+
+
 
 Data Analysis
 
@@ -41,6 +56,8 @@ The average Heart rate was about 77 beats per minute
 Users spent more time in a sedentary position throughout their day. This could be due to hours at work and/or hours spent sleeping
 Time spent being active is quite limited
 And finally, we saw a positive relationship between the distance covered by users and the number of calories burnt, which could provide a lot of health pointers to the users
+
+
 
 Recommendations
 
