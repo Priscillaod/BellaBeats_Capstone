@@ -1,4 +1,4 @@
-Bellabeat Capstone Project by Priscilla Latinwo
+BELLABEAT CAPSTONE PROJECT BY PRISCILLA LATINWO
 
 
 INTRODUCTION
